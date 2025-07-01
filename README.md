@@ -15,7 +15,8 @@ The project included the requirement to write the following queries:
 7. Let’s search for special instructions that have the word ‘door’. Any funny or interesting ones?
 8. Let’s search for special instructions that have the word ‘box’. Any funny or interesting ones?
 9. Wow, some of these are marketing gold! But what are their order numbers? Instead of just returning the special instructions, also return their order ids.
-For more readability:
+
+- For more readability:
   - Rename id as ‘#’
   - Rename special_instructions as ‘Notes’
 
