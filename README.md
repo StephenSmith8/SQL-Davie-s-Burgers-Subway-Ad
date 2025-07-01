@@ -1,4 +1,4 @@
-# SQL-Davies-Burgers-Subway-Ad\
+# SQL-Davies-Burgers-Subway-Ad
 
 Project Overview
 
